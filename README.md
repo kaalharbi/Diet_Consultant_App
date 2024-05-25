@@ -1,7 +1,7 @@
 # Diet Consultant Application
 
 ## Introduction
-The Diet Consultant Application is simple mobile app designed to provide personalized dietary guidance. It helps users track their food intake, generate diet plans, and manage nutrition and daily calories.
+The Diet Consultant Application is a simple mobile app designed to provide basic personalized dietary guidance. It helps users track their food intake, generate diet plans, and manage nutrition and daily calories.
 
 ## Features
 - **Food Tracking**: Log your daily food intake with ease.
