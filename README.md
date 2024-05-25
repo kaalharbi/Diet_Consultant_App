@@ -14,5 +14,6 @@ The Diet Consultant Application is a simple mobile app designed to provide basic
 - **VS Code/Android Studio**: For app development and testing.
 
 ## Installation
-To install the Diet Consultant Application, clone the repository and follow the setup instructions for Flutter and Android Studio.
+- To install the Diet Consultant Application, clone the repository and follow the setup instructions for Flutter and Android Studio.
+- Then, run the project on an emulator using Android Studio
 
